@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Milites causæ, the souldiers of right, or, Vox reformatorum, the remonstrance of the reformado's declaring, avouching, and maintaining 1. Their true obedience to the Lord Fairfax as commander in chief, 2. Their unanimous adhering to his undertakings, 3. Their fidelity to their country, 4. Their merits and sufferings, 5. Their perseverance in their first principles : distributed into 14 particulars and published for their own vindication and common satisfaction : December 21, 1648.</title>
+         </titleStmt>
+         <extent>Approx. 31KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50852</idno><idno type="EEBO-CITATION">13433240</idno>
+  <idno type="VID">99533</idno>
+  <idno type="EEBO-PROQUEST">2240859531</idno>
+  
+            <idno type="STC">Wing M2051</idno>
+            <idno type="STC">ESTC R33506</idno>
+            <idno type="OCLC">13433240</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A50852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1552:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Milites causæ, the souldiers of right, or, Vox reformatorum, the remonstrance of the reformado's declaring, avouching, and maintaining 1. Their true obedience to the Lord Fairfax as commander in chief, 2. Their unanimous adhering to his undertakings, 3. Their fidelity to their country, 4. Their merits and sufferings, 5. Their perseverance in their first principles : distributed into 14 particulars and published for their own vindication and common satisfaction : December 21, 1648.</title>
+               </titleStmt>
+               <extent>[2], 20 [i.e. 18] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Appended: A true and reall list of the faithfull commanders (p. 17-20)</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99533:1"/>
+            <pb facs="tcp:99533:1"/>
+            <p>
+               <hi>MILITES CAƲSAE:</hi> THE Souldiers of Right, OR, <hi>Vox Reformatorum</hi> The Remonstrance of the <hi>Reformado's</hi> Declaring, Avouching, and Maintaining,
+<list>
+                  <item>1 Their True obedience to the Lord FAIRFAX as Comman<g ref="char:EOLhyphen"/>der in Chiefe.</item>
+                  <item>2 Their unanimous adhering to His undertakings.</item>
+                  <item>3 Their Fidelity to their Country.</item>
+                  <item>4 Their Merits and their sufferings.</item>
+                  <item>5 Their perseverance in their first Principles.</item>
+               </list>
+            </p>
+            <p>Distributed into 14 Particulars. AND Published for their own Vindication, and common satisfaction.</p>
+            <p>December 21 1648.</p>
+            <p>Printed in the Year. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99533:2"/>
+            <pb n="1" facs="tcp:99533:2"/>
+            <head>
+               <hi>Milites Causae:</hi> The Souldiers of Right OR, <hi>Vox Reformatorum,</hi> The Remonstrance of the <hi>Reformado's</hi>
+            </head>
+            <p n="1">1 VVHEREAS it hath seemed good, just, and equitable, to his Excellency, the Lord <hi>Fairfax,</hi> Legitimate Captain Ge<g ref="char:EOLhyphen"/>nerall, by Conquest and Commission, of all the Parlia<g ref="char:EOLhyphen"/>ment Forces in <hi>England</hi> and <hi>Wales,</hi> (upon the humble ten<g ref="char:EOLhyphen"/>der of a Petition presented to his Excellency, by the hands of certain Collonels of the Reformadoes, subscri<g ref="char:EOLhyphen"/>bed thereunto, and consented unto by many thousands of the rest) not only to grant their Petition in point of Arrears, but also nobly to look upon them with a chear<g ref="char:EOLhyphen"/>full eye of Remembrance, and reflexion, to their former good service done, as being the first breakers of the Ice, in this great change of Reformation, the primitive in<g ref="char:EOLhyphen"/>struments of the Parliaments safety, and their Coun<g ref="char:EOLhyphen"/>tries good. And now the distressed (nay deserted) Or<g ref="char:EOLhyphen"/>phants of the Warlike <hi>Essex,</hi> his magnanimous prede<g ref="char:EOLhyphen"/>cessor: and hath consequently been pleased to receive into his care, favour, and protection, as many as shall be found faultlesse, trusty, loyall, and can justifie their in<g ref="char:EOLhyphen"/>tegrity. Wee therefore the said Petitioners, Subscrib<g ref="char:EOLhyphen"/>ers, and consenters, doe, by this our present Remon<g ref="char:EOLhyphen"/>strance manifest to the open world in the first place, our
+<pb n="2" facs="tcp:99533:3"/> obedience, thanks, and ingagement to his Excellency, and His Councell of Warre, and doe hereby assure him and them, our best assistance, service, and compliance in his Designes, against his Enemies, the Kingdomes Ene<g ref="char:EOLhyphen"/>mies, and the Enemies of the Crosse of Christ: And that with our utmost power, maugre all opposite pow<g ref="char:EOLhyphen"/>er whatsoever, whether homebred, or forraigne.</p>
+            <p n="2">2 But secondly, forasmuch as we the said Reforma<g ref="char:EOLhyphen"/>does, have for this long while (through Envy and Mi<g ref="char:EOLhyphen"/>sprision) lain under the goring lash of Malignity, the brand of Calumny, the sting of jealousie (afflictions farre more bitter, more miserable, then want, Iron grates or slavery) and so have, consequently, falne into the ill opinion of the Army, the sleighting of the Parliament, the generall contempt of both Foes and Friends, the distrust of the people, to the sad ruine of our former re<g ref="char:EOLhyphen"/>putation, and our utter undoings, having none to stand up for us, either in the mediating for our dues, or vin<g ref="char:EOLhyphen"/>dicating our honours. Therefore in the second place, we now at last exhibit this Remonstrance (being as it were set at liberty, and got under the Sun-Beames of his Ex<g ref="char:EOLhyphen"/>cellencies protection) thereby doe shew unto the eyes of all men, both our sincerity, fidelity, and constancy in the generall good cause, as also the indignities of inju<g ref="char:EOLhyphen"/>ries, abuses, aspersions, and unchristian requitals, cast up<g ref="char:EOLhyphen"/>on us after all our faithfull service to the State and peo<g ref="char:EOLhyphen"/>ple, in which Narration wee will bee as succinct as the consequence of so great a matter will possibly admit.</p>
+            <p n="3">3 In the beginning of these civill, but unnaturall bick<g ref="char:EOLhyphen"/>erings, the King &amp; Parliament first drew no other blood but what dropt from the black-mouthed quill, or was shed from the Presse in the clash of pens. The one high<g ref="char:EOLhyphen"/>ly
+<pb n="3" facs="tcp:99533:3"/> asserting his Prerogative, and absolute Supremacy: The other as stiffely maintaining their priviledges, and Independent Immunities: Till at last, being weary of their pens they fell to their Pikes, and so the controver<g ref="char:EOLhyphen"/>sie came to be decided by the Logick of the Sword and loud Canon, in the open Schoole of <hi>Mars,</hi> the field of blood. Hereupon both sides began to List Champions, Assistants, and partners in their Quarrell, some Prest, and some Voluntier, some for pay take up Armes, some for conscience, and some for both. Old Souldiers flock hither from beyond Sea, new Souldiers were here made, and many (whom wee neither own nor commend) were Souldiers of Fortune, rather then the Cause.</p>
+            <p>Now then in this great triall of men &amp; minds, the God that searcheth the reines put it into our hearts freely, and conscientiously to venture life, honour, estate, and all on the Parliaments side, in case the War should goe on, And to that purpose did wee cordially tender our service, and were as honourably received, to fight in the quarrell of justice, Common right, Reformation of a<g ref="char:EOLhyphen"/>buses, and the peoples Liberty, never fore-dreaming their revolt from their principles, or our ejection from their service.</p>
+            <p n="4">4 But fourthly to goe on, behold the martiall dis<g ref="char:EOLhyphen"/>pute grew hotter, and hotter, and the Noble <hi>Essex</hi> was chosen Generall on this side, we according to the ho<g ref="char:EOLhyphen"/>nest dictates of our soules, being by the eye of reason and Religion convinced of the excellency of the Cause, and by the call of Conscience summoned to the undertak<g ref="char:EOLhyphen"/>ing of the work, grew confident of the gallantry of our Leader, and two credulous of the honesty of our State-Masters, and forthwith as became the souldiers of Christ
+<pb n="4" facs="tcp:99533:4"/> (whose quarrell wee made it, more then our owne or theirs) we accordingly fell to worke, and that many of us at our owne charges, mounted upon our owne horses, fired our owne Pistols, and relying upon our owne Pro<g ref="char:EOLhyphen"/>visions, divers having laid out hundreds, nay thousands of pounds without receiving one penny back, many of us, and that the Major part being men of quality, Gentle<g ref="char:EOLhyphen"/>men, and old Commanders by Sea and Land, wanting then neither money nor imployment, but freely discert<g ref="char:EOLhyphen"/>ing houses, lands, wives, children, friends, livelihood, and all for the grand good worke in hand, which wee undertooke resolvedly, and performed as valiantly, and successively. Tride men, whereof many thousands lost their lives, and many others now better knowne by their Scars, then their Scarffes, for wee flincht not, wee betrayed not our trust, wee sided not with our Enemies, unlesse the Parliament was our Enemy, wee faild not in our duties, wee fell not in our principles, wee fought the good fight, and that for foure long years, in many a hard and desperate fight, the theatre of the whole world being witnesse.</p>
+            <p n="5">5 But behold on a sudden, such is the unsearchable, uncontrolable working of the divine hand, behold the Martiall Sceane was changed, and new actors Martial<g ref="char:EOLhyphen"/>led for the stage of War, <hi>exit</hi> Generall <hi>Essex,</hi> enter Ge<g ref="char:EOLhyphen"/>nerall <hi>Fairfax,</hi> now were wee forced to face about to quit our ground, and resign our places to the new mod<g ref="char:EOLhyphen"/>dell, having this only comfort left us, after al, that a faith<g ref="char:EOLhyphen"/>ful gallant people were our successors, and this our grea<g ref="char:EOLhyphen"/>test misery, that wee might not be intrusted fellow act<g ref="char:EOLhyphen"/>ors, and fellow-sufferers with them.</p>
+            <p n="6">6 And now in this great wonder, wee appeared as
+<pb n="5" facs="tcp:99533:4"/> men in a mist or a maze, wee knew not well on what ground wee went, or stood, nor where wee were, what friends, what foes wee had, wee onely knew our Con<g ref="char:EOLhyphen"/>sciences cleare, and our arrears as due as our birth-right; but how to obtaine that or this, wee knew not.</p>
+            <p>Our Generall being dead, our hopes were still in God, and the Parliament, and truly had the first faild us, as the second did, the grave long since, through mere want, had bin the portion of at least ten thousand honest, gallant, fighting soules, such as dare bid defiance at this instant, and in this present cause, to twice as many of the Ene<g ref="char:EOLhyphen"/>mies of the heroicke <hi>Fairfax,</hi> or any other upon the face of the earth.</p>
+            <p n="7">7 But to bee briefe, notwithstanding our old good service, our inviolated fidelities, our constant perseve<g ref="char:EOLhyphen"/>rance, wee became, like chimnies in Summer, or at least, kept against the winter of a hard time, their slaves at a dead lift: For wee were not so forgotten, or so sleigh<g ref="char:EOLhyphen"/>ted, as to be absolutly flung aside, for then wee had been in part happy, wee had faced about, and lookt out for a livelihood elsewhere, but that which was far worse then disbanding, they hold us by the noses in a neate smoake of delusion from time to time at the Parliament doore, there wee danced after an <hi>ignis fatuis</hi> in a trieniall mist gallantly foold for three full yeares with words, meere words and empty papers, which they gave most freely, and oft would they lay us aside for further debate, re<g ref="char:EOLhyphen"/>spited from yeare to yeare, month to month, week to weeke, day to day, but to as much purpose at last as was at first, and at first as was at last; yet however wee pe<g ref="char:EOLhyphen"/>titioned, and still they gave us words, sometime faire and sometimes foule, according as the Army (their law
+<pb n="6" facs="tcp:99533:5"/> and terror) moved nearer or further from <hi>London.</hi>
+            </p>
+            <p>They made many orders indeed for payment, but took none to see us paid, nay would the world think it, there was some in Parliament that tooke a course to prevent it, for say they, hold the bone out but give it not, that wee may have the Curres at a becke and a whistle, and then said some others, if wee prevent the gluing of the two Armies, wee shall as easily disguard <hi>Fairfax</hi> and his tattered Regiaments, as a begging Souldier from our doore with a two penny peece, or a crackt groat, and their plot was sure, for so might they raise a new and third power of their owne, when the old and new mod<g ref="char:EOLhyphen"/>dell was extinct.</p>
+            <p n="8">8 In the mean time our miseries, scornes, enemies and wants increast as fast as our friends fell, and our scores risse, wee languisht even to the gates of death, in ex<g ref="char:EOLhyphen"/>pectation of performance from promise of the Parlia<g ref="char:EOLhyphen"/>ment, but yet no comfort came, but airie complements, and some time in course language, bid us sow up the mouthes of our children if they wanted bread, what should wee doe? the rugged Catch pole, and the hauk-eyed Serjeant lay hovering in every corner, my Landlord at the red lettice would no longer trust on score, the white chalke must be paid; our estates gone, our horses sold, our Swords, Cloaks, Buffs, Pistolls pawned, and all our credit gone out, like the snuffe of a candle with a twang in the end, so that at this instant not 6 of 6000 are able to keep house, or the woolfe from the doore, or show their heads for feare of arrests: nay divers Com<g ref="char:EOLhyphen"/>manders, men formerly of good fashion and quallity, starved in prison, their wives and children left to the mercy, or rather misery of the wild world, and many at
+<pb n="7" facs="tcp:99533:5"/> this instant languishing in prison, ready there to perish for want of bread, and the rest in perpetuall perill to taste of the same cup, and this was Parliament pay.</p>
+            <p n="9">9. Yet could not all this, we blesse God, once shake the foundation of our first love, the cause we fought for, as we had fought the good fight before, we had we confesse both many and strong Invitations with Horse, Armes, Monie, and high promises, from <hi>Kent, Essex, Sussex, Surrey,</hi> and the City, to side this Summer with the Enemy against our faithfull brethren, this coura<g ref="char:EOLhyphen"/>gious and victorious Army, But behold neither want, nor wealth could work upon our spirits, for God still dwelt in our hearts by his fear, to the abhorring and utter renouncing of all offers, sollicitations, pretences, preferments or any overtures, which might in the least sort tend to the hazarding of our first principles, to the infringing of the peoples rights, or to the prejudice of this Army, which we, by calling, carriage, and suc<g ref="char:EOLhyphen"/>cesse, have reason to beleeve that they are the Army of God.</p>
+            <p n="10">10 And therfore in all reason towards this Army as our proper Center do we now tend, there to coagulate and incorporate with them, for like as in the beginning of this second rebellion, we did exhibit an unanimous and generall petition to the Parliament, shewing that wee might be imployed in the defence of them and this Ar<g ref="char:EOLhyphen"/>my, against the adverse party, but that petition proved as fruitlesse, as our severall petitions for Arrears, nay, more particularly, even as within these few months di<g ref="char:EOLhyphen"/>vers of us did singly, and that eagerly petition and im<g ref="char:EOLhyphen"/>plore <hi>Lenthall</hi> the Speaker, but for poor 20 l. a man, and some for fewer pounds, and some for a few shillings,
+<pb n="8" facs="tcp:99533:6"/> and that out of our own Arrears, of some 100 some 2 3 or 400 l. due to a man, to the intent, that we might furnish our selves as Troopers for the assistance of the General, then before <hi>Colchester,</hi> or to have had meanes to defray the ordinary charges of the way for our ho<g ref="char:EOLhyphen"/>nest conveyance down, there at least to have traild a Pike, as some of our honest Majors and Captains did, but our suit was denied and we deluded, partly by the cold fallacie of the Speakers grant, and partly by the ruffe Baffles of the two Treasurers, <hi>Pocock</hi> and <hi>Greenhill</hi> Treasurers for the Reformadoes payments, and then having in their hands enough and enough again, to have satisfied so poor, so easie a request, for by the way, this <hi>Pocock</hi> a Draper made double his gaines, to the double<g ref="char:EOLhyphen"/>ing of our losse, for by reserving from time to time the Cash in his owne Coffers, and forcing many of us (ta<g ref="char:EOLhyphen"/>king advantage upon our necessities) to a payment in cloath, at 20 s. 15 s. or lesse <hi>per</hi> yard, being put to our choice, that or nothing, but however to let that passe for the present, we consequently say, that as our Trustees deserted us and our persons, we desert them and their persons, neither should the late apprehended Members take it amisse, or the residue of the still remaining Re<g ref="char:EOLhyphen"/>presentative thinke our desertion a wonder, for they turning from us and our petitions, have taught us to turn from them, and so in all right turn our Petition to him, whom we lately and so often petitioned them, that we might serve, therefore now have we faithfully and cor<g ref="char:EOLhyphen"/>dially made our addresses to receive us as his, to releive us in our distresses, to own us after our long and sad re<g ref="char:EOLhyphen"/>jection, and so to insert us into the body, from which we were as branches broken of, that others might be in<g ref="char:EOLhyphen"/>grafted
+<pb n="9" facs="tcp:99533:6"/> in, for our case is not much unlike that of the Jew and the Gentile, mentioned by the Apostle in the 11. of <hi>Romans vers.</hi> 11, 12, 13, <hi>&amp;c.</hi> because as they are to make up one entire Communion of Saints, under one Head Christ Jesus, even so we hope to make up one imbodied Army under one Leader, as our General con<g ref="char:EOLhyphen"/>duct under Jesus Christ.</p>
+            <p n="11">11. Peculiarly therefore to him we adhere, next un<g ref="char:EOLhyphen"/>der Christ our refuge and our Buckler, the man of ju<g ref="char:EOLhyphen"/>stice and mercy, that <hi>David</hi> over the scattered and contemned Troops, who hath now made those churlish <hi>Nabals</hi> (the sons of folly) taste of hell even there, where so often, so long they had been a hell to us, as their <hi>quondam</hi> safety, their primitive Champions, keepers, <note place="margin">1 Sam. 25. 3, 6, 10. 15, 16, 21, 22.</note> and deliverers, who brought peace to them, peace to their house, and peace to all they had, who were a wall of defence to them by day and by night, while they sate consulting in the shadow of death, in a very wilder<g ref="char:EOLhyphen"/>ness of fears and dangers.</p>
+            <p>Cruel and uncivill after all were their requitalls, and so adieu to our Enemies. That <hi>Gideon</hi> hath been pleas<g ref="char:EOLhyphen"/>ed to bee our recompence who past over the wide Ri<g ref="char:EOLhyphen"/>ver at <hi>Rochester,</hi> who tooke the Princes of the <hi>Mi<g ref="char:EOLhyphen"/>dianites</hi> at <hi>Colchester, Oreb,</hi> and <hi>Zeeb,</hi> and there slue <note place="margin">Judg. 7. 24, 25.</note> them; who hath humbled the Princes of <hi>Succoth</hi> and their City, who hath taught the Elders thereof, even threescore and seventeen men with thornes and bryers of the Wildernesse for upbraiding his men, nay worse, for refusing to send bread, relief, and payment to the faint Souldier, while he was pursuing after <hi>Zeba</hi> and <note place="margin">Judg. 8. 4, 5, 6, 14, 15, 16.</note>
+               <hi>Zalmunna,</hi> (the Kings of the grashoppers) those Coun<g ref="char:EOLhyphen"/>ty <hi>Midianites,</hi> and Scottish Amalekite, even proud <hi>Go<g ref="char:EOLhyphen"/>ring,</hi>
+               <pb n="10" facs="tcp:99533:7"/> and treacherous <hi>Hamilton;</hi> This <hi>Gideon</hi> therefore will we follow, and towards him we advance our Co<g ref="char:EOLhyphen"/>lours as our Captain.</p>
+            <p n="12">12. But stay, our march is stopt, a Lyon is in the way, or at least a stumbling block which must hence be removed, before we can advance a step further, for it will be objected, and that to our faces, how can we make good our Covenant touching King and Parlia<g ref="char:EOLhyphen"/>ment, and quit the name of Traitor or Revolter? To this we answer in brief, there are as we conceive four prime materiall things, from any one of which four, a Parliament doth receive a denomination, and is accord<g ref="char:EOLhyphen"/>ingly called a Parliament, sometimes truly, sometimes fallaciously, which fallacy or wrong name of Parliament layes the ground for all Faction, sides, and parties, <hi>(viz)</hi> the persons, the cause, the Laws, and the Authority of Parliament, of each a word in their order.</p>
+            <p n="1">1. As for the persons in Parliament, they are not a Juncto of Machiavels, a Pack of brethren in iniquity, a company of young raw-heads, or old <hi>Achitophels,</hi> a bunch of Factions made up of Royalists, State Pres<g ref="char:EOLhyphen"/>byters, or silken Independents, it is not a Trienniall Monopoly of power, laws, estates, and succession from father to son till doomesday; but the proper persons in Parliament, are a select number of pious and righteous men, the Trustees put into power by the wisedome of their Country, or thus; they are the People elected for their goodnes not their greatnes, as the Representatives in full of the people electing; the electors and the elect<g ref="char:EOLhyphen"/>ed being as inseparable and correllative to each other as soul and body, head and heart, and so together make up one individuall people, the one represented, the o<g ref="char:EOLhyphen"/>ther
+<pb n="11" facs="tcp:99533:7"/> representing, as being the signifiers, the expresse let<g ref="char:EOLhyphen"/>ter and image of the people, as the whole people are in one essence the image of God.</p>
+            <p n="2">2. The cause in Parliament, is the full adequate end, the main intent and fundamentall purpose of convoking a Parl. which cause in this present Parliament, was in the hopes and thoughts of good men, the Cause of Christ, namely a thorough, generall Reformation, with justice, truth, and freedome, for the publicke good: But it seems in the hearts and plots of Knaves and Pretenders, it was the Cause of the Devill and Mammon, namely money, with freedome, safety, and honour, for none but their own good, making the good Cause a shelter and pre<g ref="char:EOLhyphen"/>tence to the bad, and thereby attracting, inveigling, and deluding thousands both good and bad, to their owne end.</p>
+            <p n="5">5. As for the Lawes in Parliament, They are not Com<g ref="char:EOLhyphen"/>mittee snares, double faced Orders, or equivocall papers devised for selfe ends; but those sound, just, plaine, and wholesome Decrees, debated, examined, confirmed, and plainly published, by the authority of the said intrusted conscientious persons, and that for the sole entire good of the people, not their own profit; binding both them<g ref="char:EOLhyphen"/>selves and us, the elected and the electing equally to o<g ref="char:EOLhyphen"/>bedience, so long as the said Decrees stand suitable and convenient, to the sound temper, health, weale, and con<g ref="char:EOLhyphen"/>stitution of the Common body, and no longer.</p>
+            <p n="4">4 As touching the authority of Parliament, it is not the clubbing humour of a partiall Committee, not the wry looke of the Speaker, nor the bare pleasure of a re<g ref="char:EOLhyphen"/>vengefull Malignant Member, nor yet the arbitrary will of imperious Lords, and avaritious Commons to sweare
+<pb n="12" facs="tcp:99533:8"/> men, to presse men, to imprison men, <hi>ad placitum, <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et du<g ref="char:EOLhyphen"/>nante placito,</hi> their will being their law: But authority of Parliament, is next under Christ, the solemne repre<g ref="char:EOLhyphen"/>sented power of the people, as it is a people, or more plainly, the authority of Parliament, is the sacred invio<g ref="char:EOLhyphen"/>lable both sword and scale of justice, derived into the hands of faithfull men <hi>pro tempore,</hi> and that by the pro<g ref="char:EOLhyphen"/>vidence of God, as Stuards of his rights for him, and next by the election of the people, as Trustees, for their right for them, to alter, make, repeale, examine and ordaine, for Gods onely honour, and the peoples good, and so it followes that God is authour of the people, the people, are authours of the Representatives to chuse them, mend them, or make them a new, in case they abuse their au<g ref="char:EOLhyphen"/>thority, or betray their trust, for in so doing they have wronged their Authors, God and the People, and con<g ref="char:EOLhyphen"/>sequently forfieted, their place, power, and authority, that sat before as Gods, but now they must die as men.</p>
+            <p n="13">13 Now then (having fully and clearly stated the point) to the grand question in hand, wee reply and say, wee ever were and still are for KING and PARLIAMENT, that is, in referrence, sence, and order to the first funda<g ref="char:EOLhyphen"/>mentall cause thereof, for which wee tooke up armes, <hi>(viz.)</hi> Justice and Freedome, but by no means, as Idola<g ref="char:EOLhyphen"/>trous Reverencers of the persons in Parliament, <hi>quatenus</hi> persons, under that name and notion, as being members of the Houses. Pell mell, for better for worse, for as touching persons, and Members, every tub must stand up<g ref="char:EOLhyphen"/>on his own bottome, and let the saddle be set upon the right Horse; God and the Law, bring to account both the guilty hypocrite, and the fearfull looker on, actors and connivers, be they who they will bee, high or low,
+<pb n="13" facs="tcp:99533:8"/> if some betray their trust, or if the rest through fear or favour wink at the betrayors of the trust, wee renounce both the one and the other, for they did fear man more then God, whose presence is daily in the midst of all their wayes and councells. When wee therefore say we are for the Parliament, wee mean the originall cause it self, which is good, just, honest and perpetuall: But as for the Persons, they are Changeable, Moveable, Trieni<g ref="char:EOLhyphen"/>all, and perhaps Diurnall men: if they bee good, and their Lawes wholesome, and correspondent to their primitive principles, wee are for them; if not, wee re<g ref="char:EOLhyphen"/>linguish them, nay wee remonstrate against them, for how can wee serve two masters <hi>God</hi> &amp; <hi>Mammon;</hi> neither will wee staine our banners, or abuse our swords in the cause of the wicked, their money, their dignities, their pretended cause, their lawes and their authorities perish with their Lordly persons; But for a good cause, good lawes, sound authority, righteous persons, wee will even dare to dye, if wee perish wee perish.</p>
+            <p n="14">14 And now lastly to bring up the Reare of our Re<g ref="char:EOLhyphen"/>monstrance, that the whole world, our friends, our foes, may fully know how clear our judgement is in this mat<g ref="char:EOLhyphen"/>ter, and how sound our hearts, we do here confirme the particulars of the precedent Remonstrance, with this ad<g ref="char:EOLhyphen"/>ditionall Protestation, and free Covenantiall Vow, as a lasting memoriall of our faiths, both of this age, and the ages to come.</p>
+            <div type="part">
+               <head>The Protestation, Vow, and Covenant, of the Refor<g ref="char:EOLhyphen"/>madoes, <hi>December</hi> 1648.</head>
+               <p>WEE the Honest, Constant, and Faithfull party of the Re<g ref="char:EOLhyphen"/>formadoes, having no other Object before our eyes, in
+<pb n="14" facs="tcp:99533:9"/> all our intents and undertakings, then the Honour of our God, the Peace, Freedome, and welfare of our Country, doe here in the sight of the same God, Men, and Angels, Protest, that wee will live and dye with them, and none but them, that stand up for the said good Cause, and whose hearts are bottomed upon the same principles, really, invariably, and without hypocrisie: And more particularly, Wee doe Protest for, and with the businesse since, and lawfull intent of the late Remonstrance of the Army, and the Petition of Right, <hi>September</hi> the <hi>11th.</hi> as being no wayes incompatible with the tenor of the first Covenant, but ra<g ref="char:EOLhyphen"/>ther equivalent, expositive, and co-essentiall with it, in a true sense, and Primitive exception, from which some equivocators of the Law, some Lucifers of the Parliament, are miserably, and totally salne. And doe accordingly Covenant and Vow, to live and dye, stand and fall, with them that maintain, and assert honestly, and truely, the said Remonstrance and Petition, to de<g ref="char:EOLhyphen"/>send them with our Lives, our Faiths, our Swords, against all manner of Tyranny, either in Prince, Priest, or Magistrate, a<g ref="char:EOLhyphen"/>gainst all Nationall iniquities, against corruption of Judges, Bribery of Lawyers, abuses of the Law, oppressions of Prisons, and Prison-Keepers: To the end that Justice may flourish, and wickednesse be called to the Barre, without connivance, exem<g ref="char:EOLhyphen"/>ption of Degrees, exception of Persons. All this wee Vow, Co<g ref="char:EOLhyphen"/>venant, and Protest to perform, and keep, to the utmost of our power. So help us, the Go<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> we have Protested by, in the day of Battaile, and houre of Tryall.</p>
+            </div>
+            <closer>
+               <signed>Signed, JOHN BENSON, Secretary to the Reformadoes.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_commanders">
+            <pb n="17" facs="tcp:99533:9"/>
+            <p>
+               <seg rend="decorInit">A</seg> True and reall List of the faith<g ref="char:EOLhyphen"/>full Commanders, and Offi<g ref="char:EOLhyphen"/>cers as have voluntarily sub<g ref="char:EOLhyphen"/>scribed to the aforesaid Re<g ref="char:EOLhyphen"/>monstrance, and Protestation, and of such only as will make good the said Remonstrance and Protestation, in opposition to any that shall go about to traduce them, or contradict particulers therein avouched. The intent thereof being no way derogative, or opposite to the proceeding of this right Ho<g ref="char:EOLhyphen"/>nourable Parliament, or any Member thereof, so far as they at any time have beene (a<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, or still shall be) right honest, just, and noble; for from such Masters, their service shall never d<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>part, but with their lives.</p>
+            <list>
+               <pb n="18" facs="tcp:99533:10"/>
+               <head>Collonels of foote.</head>
+               <item>
+                  <hi>John Holeman</hi> for himselfe and Officers.</item>
+               <item>
+                  <hi>Richard Owen</hi> Reare Ad<g ref="char:EOLhyphen"/>mirall of <hi>England.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Leivetenant Collonels of foot.</head>
+               <item>
+                  <hi>Walter Owen</hi> for himselfe and Officers.</item>
+               <item>John Campneys.</item>
+               <item>Edward Allen.</item>
+               <item>Leivetenant Collonell <hi>Par<g ref="char:EOLhyphen"/>kenson.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Serjeant Majors of foot.</head>
+               <item>
+                  <hi>Edward Shepheard</hi> for him<g ref="char:EOLhyphen"/>selfe and Officers.</item>
+               <item>Richard Beard.</item>
+            </list>
+            <list>
+               <head>Captaines of foot:</head>
+               <item>
+                  <hi>Henry Ashley</hi> for himselfe and Officers.</item>
+               <item>William Owen.</item>
+               <item>Gelly Merrick.</item>
+               <item>Nicholas Charleton.</item>
+               <item>Robert Turner.</item>
+               <item>Ralph Carter.</item>
+               <item>John Brothers.</item>
+               <item>John Co<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le.</item>
+               <item>William Hare.</item>
+               <item>Henry Somerstare.</item>
+               <item>Francis Willson.</item>
+               <item>John Robinson.</item>
+               <item>Hugh Midleton.</item>
+               <item>Thomas Midleton.</item>
+               <item>Christopher Porter.</item>
+               <item>Lycense Floyd.</item>
+               <item>Hugh Justice.</item>
+               <item>Benjamin Hooke.</item>
+               <item>Thomas Skenner.</item>
+               <item>John Marshall.</item>
+               <item>James Langley.</item>
+               <item>
+                  <hi>Ragge</hi> the Elder.</item>
+               <item>Jo. Thornehill.</item>
+               <item>Henry Rowe.</item>
+               <item>Richard Price.</item>
+               <item>Lawrence Philips.</item>
+               <item>Henry Howard.</item>
+               <item>Thomas Cooper.</item>
+               <item>William Bowen.</item>
+               <item>William Hill.</item>
+            </list>
+            <list>
+               <head>Leivetenants of foot.</head>
+               <item>William Wells.</item>
+               <item>John Leach.</item>
+               <item>John Foster.</item>
+               <item>William Rowe.</item>
+            </list>
+            <list>
+               <pb n="19" facs="tcp:99533:10"/>
+               <head>Ensignes of foot.</head>
+               <item>Richard Adams.</item>
+            </list>
+            <list>
+               <head>Collonels of horse.</head>
+               <item>Collonel <hi>Humes</hi> for himselfe and Officers.</item>
+            </list>
+            <list>
+               <head>Majors of horse.</head>
+               <item>
+                  <hi>John Powell</hi> for himselfe and Officers.</item>
+            </list>
+            <list>
+               <head>Dragoones.</head>
+               <item>Charles Birket.</item>
+            </list>
+            <list>
+               <head>Captaines of horse.</head>
+               <item>
+                  <hi>John Hide</hi> for himselfe and Officers.</item>
+               <item>Edward Clarke.</item>
+               <item>Thomas Gibson.</item>
+               <item>Henry Gouge.</item>
+               <item>William Horne.</item>
+               <item>George Blake.
+<list>
+                     <item>Mugford.</item>
+                     <item>Harccourt.</item>
+                  </list>
+               </item>
+               <item>John Earlesman.</item>
+               <item>Richard Stevens.</item>
+               <item>Joseph Jaques.</item>
+               <item>
+                  <hi>John Senior</hi> Marshall Gene<g ref="char:EOLhyphen"/>rall, and Captaine of a Troope of Horse.</item>
+            </list>
+            <list>
+               <item>Edward Clarke.</item>
+               <item>William Sambuich.</item>
+               <item>John Holmes.</item>
+               <item>Thomas Brochus.</item>
+               <item>Henry Worth.</item>
+               <item>Thomas Stayner.</item>
+               <item>John Claxton.</item>
+            </list>
+            <list>
+               <head>Leivetenants of horse</head>
+               <item>Henry Welsh.</item>
+               <item>Jo. Trehane.
+<list>
+                     <item>Altolfe.</item>
+                     <item>Hales.</item>
+                  </list>
+               </item>
+               <item>Aba. Deane.</item>
+               <item>Edward Trotman.</item>
+               <item>David Madocks.</item>
+            </list>
+            <list>
+               <head>Coronets of horse.</head>
+               <item>Richard Morgan.</item>
+               <item>Francis Bennet.</item>
+               <pb n="20" facs="tcp:99533:11"/>
+               <item>Thomas Napper.</item>
+               <item>J<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn H<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </item>
+               <item>Peter Pog<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on.</item>
+            </list>
+            <list>
+               <head>Quarter Masters of horse.</head>
+               <item>Ralph G<gap reason="illegible" resp="#uom" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </item>
+               <item>William Ardington.</item>
+               <item>James Sparnell.</item>
+            </list>
+            <list>
+               <head>Captaines of Dragoones for themselves and Officers.</head>
+               <item>Simon Farmer.
+<list>
+                     <item>Rodram.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99533:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
